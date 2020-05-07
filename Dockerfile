@@ -10,9 +10,9 @@ COPY . .
 # Install app dependencies and build the project
 RUN npm install && npm run build
 
-############################
-# STEP 2 build a small image
-############################
+################################
+# STEP 2 build the final image
+################################
 FROM node:14.1-alpine
 
 # Copying the built app
