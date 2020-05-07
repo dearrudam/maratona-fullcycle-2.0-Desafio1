@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://raw.githubusercontent.com/dearrudam/maratona-fullcycle/master/dockerignoremaratona-fullcycle-2.0-logo.png"/></a>
+  <img src="https://raw.githubusercontent.com/dearrudam/maratona-fullcycle-2.0-Desafio1/master/maratona-fullcycle-2.0-logo.png"/>
 </p>
 
 # Minha solução para o Desafio 1
