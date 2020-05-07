@@ -15,8 +15,8 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe('Hello World!');
+    it('should return "Maratona Full Cycle 2.0!"', () => {
+      expect(appController.getHello()).toBe('Maratona Full Cycle 2.0!');
     });
   });
 });
